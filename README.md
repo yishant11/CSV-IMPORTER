@@ -6,6 +6,17 @@ An intelligent CSV importer that uses AI (Google Gemini) to automatically map an
 ![Tech Stack](https://img.shields.io/badge/Express-4-green?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Gemini-2.0_Flash-blue?style=flat-square)
 
+## Application Screenshots
+
+### 1. Step 1 — Drag & Drop CSV Upload (Dark Mode Theme)
+![Step 1 - Upload](screenshorts/step1_upload.png)
+
+### 2. Step 2 — Client-Side CSV Preview with Sticky Headers (Dark Mode Theme)
+![Step 2 - Preview](screenshorts/step2_preview.png)
+
+### 3. Step 4 — Parsed Results Dashboard with Stats and Skipped Records (Light Mode Theme)
+![Step 4 - Results](screenshorts/step4_results.png)
+
 ## Features
 
 - **Drag & Drop Upload** — Drop any CSV file or click to browse
