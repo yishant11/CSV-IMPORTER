@@ -205,12 +205,3 @@ Health check endpoint.
   "status": "ok",
   "message": "GrowEasy CSV Importer API is running"
 }
-```
-
-## Position Applied For
-
-Intern
-
-## Contact
-
-Email: varun@groweasy.ai
